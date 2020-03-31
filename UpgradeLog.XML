@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RalphTicTacToe">
+</Property><Property Name="Archivo de la solución" Value="C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\RalphTicTacToe.sln">
+</Property><Property Name="Date" Value="Domingo, 21 de Junio de 2015">
+</Property><Property Name="Time" Value="23:40 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RalphTicTacToe.sln" Description="La copia C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\RalphTicTacToe.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="RalphTicTacToe.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\RalphTicTacToe.vbproj">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="RalphTicTacToe.vbproj.user" Description="La copia de seguridad C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\RalphTicTacToe.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="frmTicTacToe.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\frmTicTacToe.vb">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="TicTacToeAI.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\TicTacToeAI.vb">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="TicTacToeGame.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\TicTacToeGame.vb">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="frmTicTacToe.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Documents and Settings\Jose Luis Bejarano\Mis documentos\Descargas\yetanothertictactoe_src\Backup\frmTicTacToe.resx">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="RalphTicTacToe.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="RalphTicTacToe" Source="RalphTicTacToe.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RalphTicTacToe.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="RalphTicTacToe.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RalphTicTacToe" Source="RalphTicTacToe.vbproj" Description="Búsqueda completa: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
